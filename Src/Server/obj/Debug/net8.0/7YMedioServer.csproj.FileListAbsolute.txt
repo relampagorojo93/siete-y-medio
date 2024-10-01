@@ -1,0 +1,14 @@
+C:\Users\relam\source\repos\7YMedioServer\7YMedioServer\bin\Debug\net8.0\7YMedioServer.exe
+C:\Users\relam\source\repos\7YMedioServer\7YMedioServer\bin\Debug\net8.0\7YMedioServer.deps.json
+C:\Users\relam\source\repos\7YMedioServer\7YMedioServer\bin\Debug\net8.0\7YMedioServer.runtimeconfig.json
+C:\Users\relam\source\repos\7YMedioServer\7YMedioServer\bin\Debug\net8.0\7YMedioServer.dll
+C:\Users\relam\source\repos\7YMedioServer\7YMedioServer\bin\Debug\net8.0\7YMedioServer.pdb
+C:\Users\relam\source\repos\7YMedioServer\7YMedioServer\obj\Debug\net8.0\7YMedioServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\relam\source\repos\7YMedioServer\7YMedioServer\obj\Debug\net8.0\7YMedioServer.AssemblyInfoInputs.cache
+C:\Users\relam\source\repos\7YMedioServer\7YMedioServer\obj\Debug\net8.0\7YMedioServer.AssemblyInfo.cs
+C:\Users\relam\source\repos\7YMedioServer\7YMedioServer\obj\Debug\net8.0\7YMedioServer.csproj.CoreCompileInputs.cache
+C:\Users\relam\source\repos\7YMedioServer\7YMedioServer\obj\Debug\net8.0\7YMedioServer.dll
+C:\Users\relam\source\repos\7YMedioServer\7YMedioServer\obj\Debug\net8.0\refint\7YMedioServer.dll
+C:\Users\relam\source\repos\7YMedioServer\7YMedioServer\obj\Debug\net8.0\7YMedioServer.pdb
+C:\Users\relam\source\repos\7YMedioServer\7YMedioServer\obj\Debug\net8.0\7YMedioServer.genruntimeconfig.cache
+C:\Users\relam\source\repos\7YMedioServer\7YMedioServer\obj\Debug\net8.0\ref\7YMedioServer.dll
