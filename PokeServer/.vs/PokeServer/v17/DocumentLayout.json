@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\peter\\Desktop\\IA_Multiplayer\\Exs_Client_Server\\PokeServer\\PokeServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9232D4D9-370E-488B-910A-EB257AD8DD72}|PokeServer.csproj|c:\\users\\peter\\desktop\\ia_multiplayer\\exs_client_server\\pokeserver\\pokeserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9232D4D9-370E-488B-910A-EB257AD8DD72}|PokeServer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\peter\\Desktop\\IA_Multiplayer\\Exs_Client_Server\\PokeServer\\PokeServer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\peter\\Desktop\\IA_Multiplayer\\Exs_Client_Server\\PokeServer\\PokeServer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkBAAAAAAAAAAAwwBABAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T17:34:57.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
